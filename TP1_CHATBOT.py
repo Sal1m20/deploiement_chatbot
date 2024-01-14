@@ -51,8 +51,8 @@ def chatbot(question):
 
 # Create a Streamlit app
 def main():
-    st.title("Chatbot")
-    st.write("Hello! I'm a chatbot. Ask me anything about the topic in the text file.")
+    st.title("Chatbot FAST FOOD")
+    st.write("Hello! Bienvenue sur mon ChatBot de vente de sandwich")
 
     # Initialize the loop variable
     continue_chatting = True
