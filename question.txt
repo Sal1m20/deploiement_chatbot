@@ -4,7 +4,7 @@ Quels types de sandwichs proposez-vous?,Nous proposons jambon-fromage, le poulet
 Quels sont les prix de vos sandwichs?,Nos prix varient en fonction du type de sandwich.
 Quel est le prix du Sandwich jambon-fromage, 800 F.
 Quel est le prix du Sandwich poulet grillé, 1000 F.
-Quel est le prix du sandwich végétarien, 1200 F
+Quel est le prix du sandwich végétarien, 1200 F.
 Avez-vous des options sans gluten?,Oui, nous proposons des options sans gluten pour nos clients soucieux de leur alimentation.
 Comment puis-je passer une commande en ligne?,Vous pouvez passer une commande en ligne en visitant notre site Web et en utilisant notre système de commande facile à utiliser.
 Quelle est la composition du sandwich végétarien?,Le sandwich végétarien est composé de légumes frais tels que la laitue, les tomates, les concombres, accompagnés d'une délicieuse sauce. Vous pouvez également ajouter des extras selon vos préférences.
