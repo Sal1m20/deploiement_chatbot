@@ -1,6 +1,6 @@
 import nltk
 nltk.download ('stopwords')
-nltk.download('wordnet'
+nltk.download('wordnet')
 nltk.download('punkt')
 nltk.download('averaged_perceptron_tagger')
 from nltk.tokenize import word_tokenize, sent_tokenize
